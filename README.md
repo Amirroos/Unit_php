@@ -21,7 +21,7 @@ after add composer up most create ```phpunit.xml``` file to set config for testi
  ```sh
     "autoload": {
         "psr-4": {
-            "App\\": "app"
+            "App\\": "example_folder"
         }
     }
 ```
